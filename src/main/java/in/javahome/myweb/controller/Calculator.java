@@ -21,7 +21,7 @@ public class Calculator {
 	}
 	
 	public String getName(){
-		Stringname = null;
+		String name = null;
 		return name.toString();
 	}		
 }
