@@ -19,4 +19,9 @@ public class Calculator {
 	public int sub(int i, int j){
 		return i-j;
 	}
+	
+	public String getName(){
+		Stringname = null
+		return name.toString()
+	}		
 }
